@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+Something.
 
 
