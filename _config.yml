@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Maria Weese"
+title                    : "Maria Weese"
 title_separator          : "-"
 name                     : &name "Maria Weese"
 description              : &description "Assistant Professor of Analytics"
