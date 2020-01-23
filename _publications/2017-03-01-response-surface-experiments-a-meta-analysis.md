@@ -1,7 +1,7 @@
 ---
 title: "Response Surface Experiments: A meta Analysis"
 collection: publications
-date: 2019-12-01
+date: 2017-03-01
 venue: 'Chemometrics and Intelligent Laboratory Systems'
 
 
