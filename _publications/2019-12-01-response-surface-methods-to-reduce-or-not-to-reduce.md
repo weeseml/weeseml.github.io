@@ -8,5 +8,5 @@ venue: 'Journal of Quality Technology'
 ---
 
 
-
+[Download paper here](http://weeseml.github.io/files/smucker_et_al.pdf)
 
