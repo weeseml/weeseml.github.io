@@ -10,4 +10,4 @@ Smucker, B.J., Edwards, D.J, Weese, M.L. (2019). &quot;Response surface models: 
 
 [Download paper here](http://weeseml.github.io/files/smucker_et_al.pdf)
 
-[Supplementary Materials](http://weeseml.github.io/files/supp_smucker_et_al.pdf)
+[Supplementary Materials](http://weeseml.github.io/files/supp_smucker_et_al_2019.pdf)
