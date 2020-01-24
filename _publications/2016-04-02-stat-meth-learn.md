@@ -6,7 +6,7 @@ venue: 'Journal of Quality Technology'
 
 
 ---
-Campbell, J.T., Weese, M.L. (2017). &quot;Compositional Models and Organizational Research: Application of a Mixture Model to Nonexperimental Data in the Context of CEO Pay.&quot; <i>Organizational Research Methods</i>. 20(1):95-120. 
+Weese, M.L., Martinez, W.J., Megahed, F.M., Jones-Farmer, L.A. (2016). &quot;Statistical Learning Methods Applied to Process Monitoring: An Overview and Perspective.&quot; <i>Journal of Quality Technology</i>. 48(1):4-27. 
 
 
 [Download paper here](https://journals.sagepub.com/doi/pdf/10.1177/1094428116672002)
