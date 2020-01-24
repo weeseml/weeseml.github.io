@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I have a MS and PhD in Statistics and an undergraduate degree in Chemical Engineering.  My research centers on the design and analysis of experiments, monitoring data streams and analytics applications in Business.  I teach data mining, regression analysis and design to business students.  
+I have a MS and PhD in Statistics and an undergraduate degree in Chemical Engineering.  My research centers on the design and analysis of experiments, monitoring data streams and analytics applications in Business.  I teach data mining, regression analysis and design to business analytics students.  
 
 
