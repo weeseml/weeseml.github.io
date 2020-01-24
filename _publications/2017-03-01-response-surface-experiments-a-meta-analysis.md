@@ -13,4 +13,4 @@ Ockuly, R., A., Weese, M.L., Smucker, B.J., Edwards, D.J., Chang, L. (2017). &qu
 
 [Supplementary Materials Bibliography](http://weeseml.github.io/files/supp_ockuly_etal_2017_CILS.pdf)
 
-[Supplementary Materials Datasets](http://weeseml.github.io/files/supp_ockuly_etal_2017_CILS2)
+[Supplementary Materials Datasets](http://weeseml.github.io/files/supp_ockuly_etal_2017_CILS2.zip)
