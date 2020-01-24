@@ -1,5 +1,5 @@
 ---
-title: "Criteria for Constructing Powerful Supersaturated Designs when Eect Directions are Known"
+title: "Criteria for Constructing Powerful Supersaturated Designs when Effect Directions are Known"
 collection: publications
 date: 2017-10-01
 venue: 'Journal of Quality Technology'
