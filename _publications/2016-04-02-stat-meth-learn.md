@@ -1,8 +1,8 @@
 ---
-title: "Compositional Models and Organizational Research: Application of a Mixture Model to Nonexperimental Data in the Context of CEO Pay"
+title: "Statistical Learning Methods Applied to Process Monitoring: An Overview and Perspective"
 collection: publications
-date: 2017-01-01
-venue: 'Organizational Reserach Methods'
+date: 2016-04-02
+venue: 'Journal of Quality Technology'
 
 
 ---
