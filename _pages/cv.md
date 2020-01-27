@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download here]()
+[Download here]((http://weeseml.github.io/files/Weese_CV.pdf))
