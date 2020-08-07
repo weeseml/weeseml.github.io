@@ -8,4 +8,4 @@ date: 2020-08-04
 location: "Virtual"
 ---
 
-[Slides](http://weeseml.github.io/files/Weese_US_session.pdf)
+[Slides](http://weeseml.github.io/files/JSM_2020.pdf)
