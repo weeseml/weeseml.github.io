@@ -1,7 +1,7 @@
 ---
 title: "A one-class peeling method for multivariate outlier detection with applications in Phase I SPC"
 collection: publications
-date: 2020-10-30
+date: 2020-10-01
 venue: 'Quality and Reliability Engineering International'
 
 
