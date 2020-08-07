@@ -1,7 +1,7 @@
 ---
 title: "Response Surface Methods: To Reduce or Not to Reduce?"
 collection: publications
-date: 
+date: 2020-12-01
 venue: 'Journal of Quality Technology'
 
 
