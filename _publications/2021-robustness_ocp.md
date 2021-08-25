@@ -2,7 +2,7 @@
 title: "Robustness of the One-Class Peeling method to the Gaussian Kernel Bandwidth"
 collection: publications
 date: 2021-01-01
-venue: 'Under Review'
+venue: 'Quality and Reliability Engineering International'
 
 
 ---
