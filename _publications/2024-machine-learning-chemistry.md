@@ -2,7 +2,7 @@
 title: "Machine Learning Models Identify Inhibitors of New Delhi Metallo-β-lactamase (NDM)"
 collection: publications
 date: 2024-5-1
-venue: 'AJournal of Chemical Information and Modeling'
+venue: 'Journal of Chemical Information and Modeling'
 
 
 ---
