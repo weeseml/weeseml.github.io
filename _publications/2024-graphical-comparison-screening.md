@@ -10,4 +10,4 @@ Young. H.K., Weese, M.L., Stallrich, J.W., Smucker, B.J., Edwards, D.J.. (2024) 
 
 [Download paper here](https://arxiv.org/abs/2311.12685)
 
-[Supplementary Materials Datasets]()
+[Supplementary Materials Datasets](weeseml.github.io/files/Comparing_Screening_Designs_using_Exact_Screening_Probabilities_Supp_Mat.pdf)
