@@ -8,4 +8,4 @@ date: 2023-03-19
 location: "Banff, Canada"
 ---
 
-[Slides]()
+[Slides](weeseml.github.io/files/weese_src_2023.pdf)
